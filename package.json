@@ -1,7 +1,11 @@
 {
   "name": "version-support",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phamtanminhtien/version-support.git"
+  },
   "author": {
     "name": "Pham Tan Minh Tien",
     "email": "phamtanminhtien@gmail.com"
